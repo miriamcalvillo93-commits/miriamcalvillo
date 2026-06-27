@@ -1,26 +1,63 @@
 # 👋 Hola, soy Miriam Calvillo
 
-Desarrolladora Web Junior y graduada en Finanzas y Contabilidad.  
-Formación técnica en DAW con enfoque en el desarrollo de aplicaciones para gestión empresarial.
+### 💻 Junior Full Stack Developer
 
-## 🚀 Tecnologías
-- HTML, CSS, JavaScript
-- PHP, MySQL
-- Git & GitHub
-- WordPress / Bootstrap
-- Fundamentos Java
+🎓 Técnica Superior en Desarrollo de Aplicaciones Web (DAW)
 
-## 📊 Perfil híbrido IT + Empresa
-Combino conocimientos técnicos con formación económica y financiera:
-- Desarrollo de herramientas de gestión
-- Automatización de procesos
-- Aplicaciones orientadas a contabilidad, facturación y CRM
+🎓 Graduada en Finanzas y Contabilidad
 
-## 💻 Proyectos
-- CRM de gestión interna (login, CRUD, roles, reporting)
-- Web corporativa responsive
-- API básica de gestión de datos en PHP
+---
 
-## 📫 Contacto
-LinkedIn: (aquí pondrás tu enlace)
-Email: miriamcalvillo93@gmail.com
+## 🚀 Sobre mí
+
+Soy una desarrolladora web junior apasionada por la tecnología y el aprendizaje continuo.
+
+Me gusta desarrollar aplicaciones que aporten valor, resolver problemas y seguir mejorando mis conocimientos en desarrollo web, bases de datos y nuevas tecnologías.
+
+Actualmente estoy ampliando mi portfolio con proyectos personales y profesionales.
+
+---
+
+# 🛠 Tecnologías
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* WordPress
+
+### Backend
+
+* PHP
+* Java
+* MySQL
+
+### Herramientas
+
+* Git
+* GitHub
+* Visual Studio Code
+
+---
+
+# 📚 Actualmente
+
+✔ Desarrollo Web
+
+✔ APIs REST
+
+✔ Bases de Datos
+
+✔ Proyectos Full Stack
+
+✔ Aprendiendo React y ampliando conocimientos de IA aplicada al desarrollo
+
+---
+
+# 📫 Contacto
+
+💼 LinkedIn
+
+🌐 GitHub: https://github.com/miriamcalvillo93-commits
